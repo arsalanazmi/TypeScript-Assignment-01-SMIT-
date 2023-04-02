@@ -1,4 +1,4 @@
-## TypeScript Assignment 01
+## TypeScript Assignment#01
 
 ***Create a web application that fetches data from a public API and displays it in a table using TypeScript.***
 
